@@ -5,11 +5,11 @@ import java.util.Queue;
 
 public class SharedBuffer {
 
-    Queue<Integer> sharedBuffer;
+    private final Queue<Integer> sharedBuffer;
 
-    private int maxSize;
+    private final int maxSize;
 
-    int counter;
+    private int counter;
 
     public SharedBuffer(int maxSize) {
         sharedBuffer = new LinkedList<>();
