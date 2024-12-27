@@ -1,4 +1,4 @@
-package main.java.multithreading.monitorLock;
+package main.java.multithreading.MonitorLock;
 
 public class MonitorLockMain {
 

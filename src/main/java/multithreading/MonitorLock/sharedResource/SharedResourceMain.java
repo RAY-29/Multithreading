@@ -1,4 +1,4 @@
-package main.java.multithreading.monitorLock.sharedResource;
+package main.java.multithreading.MonitorLock.sharedResource;
 
 public class SharedResourceMain {
 

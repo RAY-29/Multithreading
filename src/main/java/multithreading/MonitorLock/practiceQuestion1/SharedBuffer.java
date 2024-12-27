@@ -1,4 +1,4 @@
-package main.java.multithreading.monitorLock.practiceQuestion1;
+package main.java.multithreading.MonitorLock.practiceQuestion1;
 
 import java.util.LinkedList;
 import java.util.Queue;
