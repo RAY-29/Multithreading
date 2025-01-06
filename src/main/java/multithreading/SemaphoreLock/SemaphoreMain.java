@@ -1,4 +1,4 @@
-package main.java.multithreading.Semaphore;
+package main.java.multithreading.SemaphoreLock;
 
 public class SemaphoreMain {
     public static void main(String[] args) {
